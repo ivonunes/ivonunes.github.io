@@ -3,7 +3,7 @@ window.onload = function () {
         text = document.querySelector('section'),
         social = document.querySelector('.social'),
         center = document.querySelector('.center'),
-        made = document.querySelector('h3');
+        made = document.querySelector('footer');
 
     avatar.className = 'avatar animated fadeInDown';
     text.className = 'animated zoomIn';

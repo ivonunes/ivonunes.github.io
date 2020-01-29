@@ -48,7 +48,7 @@ h1 span {
 	font-size: 0.6em;
 }
 
-h2 {
+p {
 	color: #fff;
 	text-shadow: 0 0 3px rgba(0, 0, 0, 0.75);
 	font-weight: 300;
@@ -60,7 +60,16 @@ h2 {
 	max-width: 420px;
 }
 
-h3 {
+p a, p a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+p a:hover {
+	text-decoration: underline;
+}
+
+footer {
 	color: #eee;
 	text-shadow: 0 0 3px rgba(0, 0, 0, 0.75);
 	font-weight: 300;
