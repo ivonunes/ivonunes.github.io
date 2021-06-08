@@ -8,7 +8,7 @@ window.onload = function () {
     avatar.className = 'avatar animated fadeInDown';
     text.className = 'animated zoomIn';
     social.className = 'social animated fadeInUp';
-    made.className = 'animated fadeInUp'
+    made.className = 'animated fadeInUp';
     center.style.visibility = 'visible';
-    made.style.visibility = 'visible'
+    made.style.visibility = 'visible';
 };
